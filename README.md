@@ -2,7 +2,9 @@
 
 <p>Para exemplificar o uso do HttpClient vamos criar um projeto angular, o projeto será um CRUD usando API REST fake com o uso do HttpClient. </p>
 
-<img src="https://github.com/teonett/Angular-Fake-Rest-Api/blob/master/img/fakeserver.png">
+# Criando uma API REST fake
+Para simular o uso do HttpClient, precisamos de uma API REST fake, para isso podemos usar o json-server.
+<b> npm install -g json-server </b>
 
 <img src="https://github.com/teonett/Angular-Fake-Rest-Api/blob/master/img/fakeserver-start.png">
 
