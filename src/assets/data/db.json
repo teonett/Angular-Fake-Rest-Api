@@ -1,0 +1,28 @@
+{
+  "cars": [
+    {
+      "model": "Ford Ka Novo",
+      "color": "Branco",
+      "price": 45000,
+      "id": 4
+    },
+    {
+      "model": "Sandero Sedan",
+      "color": "Prata",
+      "price": 46700,
+      "id": 5
+    },
+    {
+      "model": "VolksWagen Fusca",
+      "color": "Marrom",
+      "price": 4570,
+      "id": 7
+    },
+    {
+      "model": "Fiat Uno",
+      "color": "Cinza",
+      "price": 13777,
+      "id": 8
+    }
+  ]
+}
